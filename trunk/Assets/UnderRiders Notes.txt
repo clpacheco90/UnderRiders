@@ -1,0 +1,16 @@
+Under Riders Notes:
+	to fix: player can't enter in submarine									- FIXED
+	player can move by diagonal												- FIXED - REFIXED
+	
+	move scuba oxygen meter to scuba diver picture							- FIXED
+	add lives, or had a limited number of scuba diver
+
+	Scuba open gates/ unlock areas
+	More puzzles
+	to fix: new music
+	co-op mode?																- NO
+	more dynamic enemies
+	the objective of the game is uncler
+	Introduce the players to things gradually, ALMOST like a tutorial
+	put bubbles like sonic to save scuba live
+	
